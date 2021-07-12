@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/MUX_for_proc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/RoundRobinArbiter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module round_robin_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/connection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module connection
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main_module_of_Crossbar
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/out_arbiter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module out_arbiter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/out_procedure.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module procedure
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sources_1/new/point.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module point
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Crossbar4/Crossbar4.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
